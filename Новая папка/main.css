@@ -1,0 +1,68 @@
+body {
+	color: #ba2759;
+	text-decoration: none
+}
+.a {
+	color: #ba2759;
+	text-decoration: none
+}
+.b {
+	color:#ba2759;
+	text-decoration: none
+}
+.c {
+	color: #ba2759;
+	text-decoration: none
+}
+.a:hover {
+	color: green
+}
+.b:hover {
+	color: green
+}
+.c:hover {
+	color: green
+}
+.f {
+	color: #ba2759;
+	text-decoration: none
+}
+.f:hover {
+	color: green
+}
+h1 {
+	color: green
+}
+body {
+	background: url(logo.jpg) no-repeat center;
+}
+.txta {
+	text-align: center
+	
+}
+.txta {
+font-size: 40px
+}
+.txta {
+font-family ? 
+
+text-transform: capitalize
+
+}
+.ff {
+	color: black
+}
+.ff {
+	font-size: 150
+}
+.ff {
+	background-color: #87CEEB
+}
+.ba {
+	color: #ba2759;
+	text-decoration: none
+	 
+}
+.ba {
+	background-color: #87CEEB
+}
